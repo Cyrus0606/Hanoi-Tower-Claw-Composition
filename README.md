@@ -14,7 +14,7 @@ With 5 disks, the puzzle can be solved in 31 moves. The minimal number of moves 
 Hardware Introduction
 
 This project uses the following hardware components to implement the automated Tower of Hanoi device:
-
+# Disclaimer: All parameters have to be adjusted based on your stituation!
 # 1. Arduino Uno R3
 
 Description: The Arduino Uno R3 is a microcontroller development board based on the ATmega328P, responsible for controlling the stepper motor's movement and                     performing logic operations.
